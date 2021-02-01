@@ -12,5 +12,5 @@ Running / Testing:
 Since I haven't yet had a chance to package this into an actual kwin script package, the easiest way to test it out is to run `wm console`.
 1. Run `wm console`
 2. Open the kwin-script-groups.js file.
-3. Click execute.
+3. Click execute.    
 Note: You can safely close wm console now.
