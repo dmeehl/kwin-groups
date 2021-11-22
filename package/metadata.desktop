@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Kwin-Groups
+Comment=A kwin script to "group" windows together.
+Icon=view-group
+
+X-KDE-PluginInfo-Author=dmeehl
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-Name=kwin-groups
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=GPL
+
+Type=Service
+X-KDE-ServiceTypes=KWin/Script
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/kwin-groups.js
